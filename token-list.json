@@ -14,6 +14,14 @@
       "symbol": "WUNM",
       "decimals": 18,
       "logoURI": "https://cdn.jsdelivr.net/gh/UraniumEcosystem/token-list@main/PNG%20logo.png"
+    },
+    {
+      "chainId": 2409,
+      "address": "0xf4e795B6a3803A64DD8F13a95eCb2EB96c389128",
+      "name": "Umbriel",
+      "symbol": "UBL",
+      "decimals": 8,
+      "logoURI": ""
     }
   ],
   "version": {
